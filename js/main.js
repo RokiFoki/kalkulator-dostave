@@ -19,7 +19,8 @@ var posiljka = null,
   firstPopulated = true,
   selectedTarifa = 1,
   lastFocused = "kutija",
-  delay;
+  delay,
+  rateEurHrk = 7.53450;
 
 $(document).ready(function () {
   $(".item").append('<div class="close"></div>');
@@ -155,8 +156,8 @@ function displayVals(item) {
     mass = item.mass,
     sortedDim = item.getSortedDim(),
     hitno = {
-      moto: [26, 60],
-      caddy: [39, 90],
+      moto: [26 / rateEurHrk, 60 / rateEurHrk],
+      caddy: [39 / rateEurHrk, 90 / rateEurHrk],
     },
     vozilo1 = {
       moto: 0,
@@ -218,7 +219,7 @@ function displayVals(item) {
 
       if (strana_svijeta_od != strana_svijeta_do) {
         // cijene za drugu zonu se povecaju za deset ako nisu u istom dijelu grada.
-        cijena += 10;
+        cijena += 10 / rateEurHrk;
 
         // vijeme se isto povecava za 30
         unutar += 30;
@@ -378,7 +379,7 @@ function getPrice(dim, mass, zones) {
     mClass = priceClass[2],
     theClass = 0,
     gabarit = false,
-    classMultiplier = [0, 0, 4.9, 4.75, 4.6, 0, 4.9, 4.75],
+    classMultiplier = [0, 0, 0.65, 0,63, 0,61, 0, 0.65, 0.63],
     freeMass = {
       caddy: 20,
       kombi: 100,
@@ -491,13 +492,13 @@ function setBase(vozilo) {
   if (useOldValues()) return setBaseOld(vozilo);
 
   if (vozilo === "moto") {
-    return 50.9;
+    return 7.8;
   } else {
     if (vozilo === "caddy") {
-      return 73.9;
+      return 11.33;
     } else {
       if (vozilo === "kombi") {
-        return 149;
+        return 22.87;
       }
     }
   }

@@ -295,7 +295,7 @@ class kalkulator_widget extends WP_Widget {
               <option value="0,0,0;7,5,0;J">
                 SVETA KLARA
               </option>
-              <option value="0,0,50;7,5,50;S">
+              <option value="0,0,0;7,5,50;S">
                 ŠESTINE
               </option>
               <option value="0,0,0;2,5,0;Z">
@@ -306,96 +306,96 @@ class kalkulator_widget extends WP_Widget {
               </option>
             </optgroup>
             <optgroup label="3. Zona">
-              <option value="33.70,23,50;50,30,100">
+              <option value="5.18,3.55,7.68;50,30,100">
                 BREZOVICA
               </option>
-              <option value="33.70,23,50;17,10,50">
+              <option value="5.18,3.55,7.68;17,10,50">
                 ČEHI
               </option>
-              <option value="33.70,23,50;27,20,50">
+              <option value="5.18,3.55,7.68;27,20,50">
                 D. I G. LOMNICA
               </option>
-              <option value="33.70,23,50;27,20,50">
+              <option value="5.18,3.55,7.68;27,20,50">
                 DONJI STUPNIK
               </option>
-              <option value="33.70,23,50;27,20,50">
+              <option value="5.18,3.55,7.68;27,20,50">
                 GORNJI STUPNIK
               </option>
-              <option value="33.70,23,50;17,10,50">
+              <option value="5.18,3.55,7.68;17,10,50">
                 HRAŠĆE
               </option>
-              <option value="33.70,23,50;17,20,50">
+              <option value="5.18,3.55,7.68;17,20,50">
                 HRVATSKI LESKOVAC
               </option>
-              <option value="--,20,50;--,18,50">
+              <option value="--,3.55,7.68;--,18,50">
                 IKEA/IKEA OUTLET
               </option>
-              <option value="33.70,23,50;7,5,50">
+              <option value="5.18,3.55,7.68;7,5,50">
                 JAZBINA
               </option>
-              <option value="33.70,23,50;17,20,50">
+              <option value="5.18,3.55,7.68;17,20,50">
                 JEŽDOVEC
               </option>
-              <option value="33.70,23,50;32,25,50">
+              <option value="5.18,3.55,7.68;32,25,50">
                 KERESTINEC
               </option>
-              <option value="33.70,23,50;22,15,50">
+              <option value="5.18,3.55,7.68;22,15,50">
                 LUČKO
               </option>
-              <option value="33.70,23,50;25,18,50">
+              <option value="5.18,3.55,7.68;25,18,50">
                 MALA I VELIKA MLAKA
               </option>
-              <option value="33.70,23,50;50,30,100">
+              <option value="5.18,3.55,7.68;50,30,100">
                 MARKUŠEVEC
               </option>
-              <option value="33.70,23,50;22,15,50">
+              <option value="5.18,3.55,7.68;22,15,50">
                 MIĆEVEC
               </option>
-              <option value="33.70,23,50;25,18,50">
+              <option value="5.18,3.55,7.68;25,18,50">
                 MIROŠEVEC
               </option>
-              <option value="33.70,23,50;17,10,50">
+              <option value="5.18,3.55,7.68;17,10,50">
                 ODRA
               </option>
-              <option value="33.70,23,50;22,15,50">
+              <option value="5.18,3.55,7.68;22,15,50">
                 PODSUSED
               </option>
-              <option value="33.70,23,50;27,20,50">
+              <option value="5.18,3.55,7.68;27,20,50">
                 RAKITJE
               </option>
-              <option value="33.70,23,50;22,15,50">
+              <option value="5.18,3.55,7.68;22,15,50">
                 SESVETE
               </option>
-              <option value="33.70,23,50;32,25,50">
+              <option value="5.18,3.55,7.68;32,25,50">
                 SESVETSKI KRALJEVEC
               </option>
-              <option value="33.70,23,50;25,18,50">
+              <option value="5.18,3.55,7.68;25,18,50">
                 SVETA NEDJELJA
               </option>
-              <option value="33.70,23,50;12,5,0">
+              <option value="5.18,3.55,7.68;12,5,0">
                 ŠTEFANOVEC
               </option>
-              <option value="33.70,23,50;32,25,50">
+              <option value="5.18,3.55,7.68;32,25,50">
                 VELIKA GORICA
               </option>
-              <option value="33.70,23,50;17,10,50">
+              <option value="5.18,3.55,7.68;17,10,50">
                 VELIKO POLJE
               </option>
             </optgroup>
             <optgroup label="4. Zona">
-              <option value="--,74,50;50,80,100">
+              <option value="--,11.37,7.68;50,80,100">
                 DUGO SELO
               </option>
-              <option value="--,39.7,50;50,50,100">
+              <option value="--,5.27,7.68;50,50,100">
                 NOVO ČIČE
               </option>
-              <option value="--,74,50;50,80,100">
+              <option value="--,11.37,7.68;50,80,100">
                 RUGVICA
               </option>
-              <option value="--,39.7,50;50,50,100">
+              <option value="--,5.27,7.68;50,50,100">
                 SAMOBOR
               </option>
-              <option value="--,39.7,50;35,50,100">
+              <option value="--,5.27,7.68;35,50,100">
                 ZAPREŠIĆ
               </option>
             </optgroup>
@@ -607,7 +607,7 @@ class kalkulator_widget extends WP_Widget {
               <option value="0,0,0;7,5,0;J">
                 SVETA KLARA
               </option>
-              <option value="0,0,50;7,5,50;S">
+              <option value="0,0,0;7,5,50;S">
                 ŠESTINE
               </option>
               <option value="0,0,0;2,5,0;Z">
@@ -618,96 +618,96 @@ class kalkulator_widget extends WP_Widget {
               </option>
             </optgroup>
             <optgroup label="3. Zona">
-            <option value="33.70,23,50;50,30,100">
+            <option value="5.18,3.55,7.68;50,30,100">
                 BREZOVICA
               </option>
-              <option value="33.70,23,50;17,10,50">
+              <option value="5.18,3.55,7.68;17,10,50">
                 ČEHI
               </option>
-              <option value="33.70,23,50;27,20,50">
+              <option value="5.18,3.55,7.68;27,20,50">
                 D. I G. LOMNICA
               </option>
-              <option value="33.70,23,50;27,20,50">
+              <option value="5.18,3.55,7.68;27,20,50">
                 DONJI STUPNIK
               </option>
-              <option value="33.70,23,50;27,20,50">
+              <option value="5.18,3.55,7.68;27,20,50">
                 GORNJI STUPNIK
               </option>
-              <option value="33.70,23,50;17,10,50">
+              <option value="5.18,3.55,7.68;17,10,50">
                 HRAŠĆE
               </option>
-              <option value="33.70,23,50;17,20,50">
+              <option value="5.18,3.55,7.68;17,20,50">
                 HRVATSKI LESKOVAC
               </option>
-              <option value="--,20,50;--,18,50">
+              <option value="--,3.55,7.68;--,18,50">
                 IKEA/IKEA OUTLET
               </option>
-              <option value="33.70,23,50;7,5,50">
+              <option value="5.18,3.55,7.68;7,5,50">
                 JAZBINA
               </option>
-              <option value="33.70,23,50;17,20,50">
+              <option value="5.18,3.55,7.68;17,20,50">
                 JEŽDOVEC
               </option>
-              <option value="33.70,23,50;32,25,50">
+              <option value="5.18,3.55,7.68;32,25,50">
                 KERESTINEC
               </option>
-              <option value="33.70,23,50;22,15,50">
+              <option value="5.18,3.55,7.68;22,15,50">
                 LUČKO
               </option>
-              <option value="33.70,23,50;25,18,50">
+              <option value="5.18,3.55,7.68;25,18,50">
                 MALA I VELIKA MLAKA
               </option>
-              <option value="33.70,23,50;50,30,100">
+              <option value="5.18,3.55,7.68;50,30,100">
                 MARKUŠEVEC
               </option>
-              <option value="33.70,23,50;22,15,50">
+              <option value="5.18,3.55,7.68;22,15,50">
                 MIĆEVEC
               </option>
-              <option value="33.70,23,50;25,18,50">
+              <option value="5.18,3.55,7.68;25,18,50">
                 MIROŠEVEC
               </option>
-              <option value="33.70,23,50;17,10,50">
+              <option value="5.18,3.55,7.68;17,10,50">
                 ODRA
               </option>
-              <option value="33.70,23,50;22,15,50">
+              <option value="5.18,3.55,7.68;22,15,50">
                 PODSUSED
               </option>
-              <option value="33.70,23,50;27,20,50">
+              <option value="5.18,3.55,7.68;27,20,50">
                 RAKITJE
               </option>
-              <option value="33.70,23,50;22,15,50">
+              <option value="5.18,3.55,7.68;22,15,50">
                 SESVETE
               </option>
-              <option value="33.70,23,50;32,25,50">
+              <option value="5.18,3.55,7.68;32,25,50">
                 SESVETSKI KRALJEVEC
               </option>
-              <option value="33.70,23,50;25,18,50">
+              <option value="5.18,3.55,7.68;25,18,50">
                 SVETA NEDJELJA
               </option>
-              <option value="33.70,23,50;12,5,0">
+              <option value="5.18,3.55,7.68;12,5,0">
                 ŠTEFANOVEC
               </option>
-              <option value="33.70,23,50;32,25,50">
+              <option value="5.18,3.55,7.68;32,25,50">
                 VELIKA GORICA
               </option>
-              <option value="33.70,23,50;17,10,50">
+              <option value="5.18,3.55,7.68;17,10,50">
                 VELIKO POLJE
               </option>
             </optgroup>
             <optgroup label="4. Zona">
-              <option value="--,74,50;50,80,100">
+              <option value="--,11.37,7.68;50,80,100">
                 DUGO SELO
               </option>
-              <option value="--,39.7,50;50,50,100">
+              <option value="--,5.27,7.68;50,50,100">
                 NOVO ČIČE
               </option>
-              <option value="--,74,50;50,80,100">
+              <option value="--,11.37,7.68;50,80,100">
                 RUGVICA
               </option>
-              <option value="--,39.7,50;50,50,100">
+              <option value="--,5.27,7.68;50,50,100">
                 SAMOBOR
               </option>
-              <option value="--,39.7,50;35,50,100">
+              <option value="--,5.27,7.68;35,50,100">
                 ZAPREŠIĆ
               </option>
             </optgroup>
